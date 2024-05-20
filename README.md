@@ -9,6 +9,7 @@ The price of this TDL is Rs 5000 per year
 
 ## Table Name:Ledger
 
+To Read [more](https://techca.app/viewtopic.php?t=28)  and discuss on this logon to 
 
 Sheet Name: Ledger_forensics
 
