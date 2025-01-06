@@ -19,10 +19,15 @@ Sheet Name: Ledger_forensics
 
 
 
-### Query to Get the Data 
+### Query to Get the Data  (Copy paste the code in the calculator Panel)
 
 
-**Select $Name, $Createdby, $CreatedDate, $Masterid, $Alterid, $Alteredon, $Alteredby, $Updateddatetime, $LastVoucherDate, $Parent, $$AscrAmt:$openingBalance, $$AscrAmt:$_ClosingBalance from ledger order by $Alterid desc**
+****
+
+
+
+<p><b>Select $Name, $Createdby, $CreatedDate, $Masterid, $Alterid, $Alteredon, $Alteredby, $Updateddatetime, $LastVoucherDate, $Parent, $$AscrAmt:$openingBalance, $$AscrAmt:$_ClosingBalance from ledger order by $Alterid desc</b> </p>
+
 
 
 # Future ideas
