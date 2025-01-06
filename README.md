@@ -51,7 +51,7 @@ Sheet Name: Ledger_forensics
 
 
 ### Query to Get the Data  (Copy and paste the code in the calculator Panel)
-**Select $Key, $BillName, $LedName, $BillDate, $OpeningBalance, $ClosingBalance, $billcreditper, $AdvanceBill, $IsCleared, $LedMid, $LedAltid, $CompanyName, $Year_from, $Year_to, $Company_number, $Path FROM A__M_ClBill_11
+<b> <p>Select $Key, $BillName, $LedName, $BillDate, $OpeningBalance, $ClosingBalance, $billcreditper, $AdvanceBill, $IsCleared, $LedMid, $LedAltid, $CompanyName, $Year_from, $Year_to, $Company_number, $Path FROM A__M_ClBill_11</b> </p>
 
 ## Table Name:A__M_OpBill_11
 
