@@ -1,7 +1,10 @@
 # TallyConnector-CharteredAccountant
 This is a Paid version of TDL for Chartered Accountants @  5000 Rs
 
-The TDL Helps to Get Around 90 % of the Data in Tally to Excel in quick seconds
+
+TDL Order and Preview of data is [Here](https://docs.google.com/forms/d/e/1FAIpQLSe_MLymF1eeP1EBItPzBizqOcOZ1Fm-xTPFxHZTIu4PzycZRg/viewform)
+
+This TDL Helps to Get Around 90 % of the Data in Tally to Excel in quick seconds
 
 
 
