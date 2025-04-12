@@ -1,5 +1,5 @@
 # TallyConnector-CharteredAccountant
-This is a Paid version of TDL for Chartered Accountants @  5000 Rs
+This is a Paid version of TDL for Chartered Accountants 
 
 
 TDL Order and Preview of data is [Here](https://docs.google.com/forms/d/e/1FAIpQLSe_MLymF1eeP1EBItPzBizqOcOZ1Fm-xTPFxHZTIu4PzycZRg/viewform)
@@ -133,6 +133,11 @@ Sheet Name: Ledger_forensics
 
 ### Query to Get the Data  (Copy and paste the code in the calculator Panel)
  <p><b>Select $Key, $MasterId, $AlterID, $VoucherNumber, $Date, $VoucherTypeName, $Led_Lineno, $Type, $LedgerName, $Amount, $Currency, $ForexValue, $Fx_Rate, $Led_Parent, $Led_Group, $Party_LedName, $Vch_GSTIN, $Led_GSTIN, $Party_GST_Type, $GST_Classification, $Narration, $EnteredBy, $LastEventinVoucher, $UpdatedDate, $UpdatedTime, $Nature_Led, $Led_MID, $CompanyName, $Year_from, $Year_to, $Company_number, $Path FROM A__DayBK_FC</b> </p>
+
+## Table Name:GST single Sheet
+
+
+
 
 # Future ideas
 
